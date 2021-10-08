@@ -1,0 +1,2 @@
+plasmoidviewer --applet ./plasmoid/
+

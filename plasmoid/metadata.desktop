@@ -1,0 +1,20 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Untis
+Comment=WebUntis integraion
+Icon=face-cool
+Type=Service
+
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Stefan Heinz
+X-KDE-PluginInfo-Email=stefan.heinz.02@gmail.com
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=org.kde.untis
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/Applet
+X-KDE-PluginInfo-Category=Windows and Tasks
+
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-RemoteLocation=
